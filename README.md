@@ -1,2 +1,0 @@
-# HaroldPortfolio
-Created with CodeSandbox
